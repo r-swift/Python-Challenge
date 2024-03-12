@@ -57,7 +57,7 @@ line5 = str(f"Average Change: ${average_change}")
 line6 = str(f"Greatest Increase in Profits: {greatest_date} (${str(greatest_increase)})")
 line7 = str(f"Greatest Decrease in Profits: {worst_date} (${str(greatest_decrease)})")
 
-analysis_file.write('{}\n{}\n{}\n{}\n{}\n{}\n{}\n'.form(line1,line2,line3,line4,line5,line6,line7))
+analysis_file.write('{}\n{}\n{}\n{}\n{}\n{}\n{}\n'.format(line1,line2,line3,line4,line5,line6,line7))
 
 
 
