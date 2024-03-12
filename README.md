@@ -40,7 +40,7 @@ You will be given a set of poll data called election_data.csv. The dataset is co
   Helping with the analysis_text.write integer value line of codeand understanding the {}\n part of the code and doing line1, line2 and format(line1,line2...)
 
   https://stackoverflow.com/questions/51328193/understanding-the-print-format-3-in-python
-  
+ 
   https://www.youtube.com/watch?v=t1tX3V9dRUM
   
   Helped with the %.3f%% string formatting in the percentage change formula
