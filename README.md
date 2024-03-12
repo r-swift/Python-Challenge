@@ -35,8 +35,9 @@ You will be given a set of poll data called election_data.csv. The dataset is co
   ### Resources
 
   https://stackoverflow.com/questions/11160939/how-to-write-integer-values-to-a-file-using-out-write
+  https://stackoverflow.com/questions/21019942/write-multiple-lines-in-a-file-in-python
   
-  Helping with the analysis_text.write integer value line of codeand understanding the {}\n part of the code
+  Helping with the analysis_text.write integer value line of codeand understanding the {}\n part of the code and doing line1, line2 and format(line1,line2...)
 
   https://stackoverflow.com/questions/51328193/understanding-the-print-format-3-in-python
   
