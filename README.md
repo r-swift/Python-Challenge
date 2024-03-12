@@ -51,4 +51,8 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 
   https://realpython.com/python-append/
 
+  https://stackoverflow.com/questions/176918/how-to-find-the-index-for-a-given-item-in-a-list
+
+  Help with index operator.
+
   Help with .append operator
