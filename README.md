@@ -32,27 +32,27 @@ You will be given a set of poll data called election_data.csv. The dataset is co
   
   The winner of the election based on popular vote
 
-  ### Resources
+### Resources
 
-  https://stackoverflow.com/questions/11160939/how-to-write-integer-values-to-a-file-using-out-write
-  https://stackoverflow.com/questions/21019942/write-multiple-lines-in-a-file-in-python
+https://stackoverflow.com/questions/11160939/how-to-write-integer-values-to-a-file-using-out-write
+https://stackoverflow.com/questions/21019942/write-multiple-lines-in-a-file-in-python
   
-  Helping with the analysis_text.write integer value line of codeand understanding the {}\n part of the code and doing line1, line2 and format(line1,line2...)
+Helping with the analysis_text.write integer value line of codeand understanding the {}\n part of the code and doing line1, line2 and format(line1,line2...)
 
-  https://stackoverflow.com/questions/51328193/understanding-the-print-format-3-in-python
+https://stackoverflow.com/questions/51328193/understanding-the-print-format-3-in-python
  
-  https://www.youtube.com/watch?v=t1tX3V9dRUM
+https://www.youtube.com/watch?v=t1tX3V9dRUM
   
-  Helped with the %.3f%% string formatting in the percentage change formula
+Helped with the %.3f%% string formatting in the percentage change formula
 
-  https://www.askpython.com/python/examples/plus-equal-operator#:~:text=The%20%2B%3D%20Operator%20In%20Python%20%E2%80%93%20A%20Complete,3.%20Understanding%20Associativity%20of%20%E2%80%9C%2B%3D%E2%80%9D%20operator%20in%20Python
+https://www.askpython.com/python/examples/plus-equal-operator#:~:text=The%20%2B%3D%20Operator%20In%20Python%20%E2%80%93%20A%20Complete,3.%20Understanding%20Associativity%20of%20%E2%80%9C%2B%3D%E2%80%9D%20operator%20in%20Python
 
-  Understanding the += operator
+Understanding the += operator
 
-  https://realpython.com/python-append/
+https://realpython.com/python-append/
 
-  https://stackoverflow.com/questions/176918/how-to-find-the-index-for-a-given-item-in-a-list
+Help with .append operator
 
-  Help with index operator.
+https://stackoverflow.com/questions/176918/how-to-find-the-index-for-a-given-item-in-a-list
 
-  Help with .append operator
+Help with index operator.
